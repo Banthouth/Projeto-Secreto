@@ -1,0 +1,33 @@
+commit 5545ae95d782bad3d43da7da49caf6262eb53091 (HEAD -> main, origin/main)
+Merge: 167681e 3b695fb
+Author: Banthouth <marconozudo@gmail.com>
+Date:   Fri Jan 26 09:48:07 2024 -0300
+
+    Merge branch 'main' of github.com:Banthouth/Projeto-Secreto
+
+commit 167681ebd7eda2e24bd62061969c8158566c6ab8
+Author: Banthouth <marconozudo@gmail.com>
+Date:   Fri Jan 26 09:48:01 2024 -0300
+
+    Um commit testando o gitignore
+
+commit 3b695fbe199248b41c3eb7f8ca7ecee2c0e047dd
+Author: Banthouth <157543279+Banthouth@users.noreply.github.com>
+Date:   Fri Jan 26 09:45:04 2024 -0300
+
+    Create README.md
+
+commit 8076e4c5c8972954d702a4334d9e967ef1d893cb
+Merge: b3e40f6 9c33ffe
+Author: Banthouth <marconozudo@gmail.com>
+Date:   Thu Jan 25 21:11:41 2024 -0300
+
+    Merge branch 'main' of github.com:Banthouth/Projeto-Secreto
+
+commit b3e40f6e3399ce07551e20d815c2fc00bda877fe
+Author: Banthouth <marconozudo@gmail.com>
+***********************
+
+TODOS OS COMMITS DEPOIS DAS 10:00 DO DIA 26/01/2024 NÃO SERÃO CATALOGADOS
+
+***********************
